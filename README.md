@@ -1,20 +1,20 @@
 # 과목명 
 github의 첫 시작 
-
 <br>
+
 # 과목 개요
  - ch1. 포트폴리오 제작
  - ch2. 
  - ch3. 
-
 <br>
+
 # 영상
 깃헙을 활용해 개인사이트 만들기
-<iframe width="608.5" height="342.5" src="https://www.youtube.com/embed/pEEVNGZDfvo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="608.5" height="342.5" src="https://www.youtube.com/embed/3A3nLblKf8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
+
 Sourcetree사용하기
 <iframe width="608.5" height="342.5" src="https://www.youtube.com/embed/saLX5pNd9As" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <br>
 
 # 과목을 배우고 느낀점, 어려웠는데 극복한 경험
